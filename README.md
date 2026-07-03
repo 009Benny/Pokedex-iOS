@@ -107,13 +107,14 @@ Keeping the dependency surface at zero simplifies review, builds, and long-term 
 
 ## Evidence
 
-<!-- Add screenshots or a short video here, e.g.:
-| Home | Detail |
-|---|---|
-| ![Home](docs/home.png) | ![Detail](docs/detail.png) |
--->
+| Home | Detail | Detail 2 | Detail 3 |
+|---|---|---|---|
+| <img width="369" height="800" alt="Home" src="https://github.com/user-attachments/assets/26d28b9b-ef2f-4e24-89e9-e3fac2ca133a" /> | <img width="369" height="800" alt="Detail" src="https://github.com/user-attachments/assets/69b21a7e-924a-457b-b849-f96660c25ee2" /> | <img width="369" height="800" alt="Detail2" src="https://github.com/user-attachments/assets/c9be4d44-c7d8-467c-96f4-80c3e54573f3" /> | <img width="369" height="800" alt="Detail3" src="https://github.com/user-attachments/assets/8abe9b87-d7a4-43be-80c4-bf998fd6fba6" /> |
 
-*Screenshots/video pending — run the app to see the list, detail, and offline mode (visit a Pokémon, enable Airplane Mode, and reopen it).*
+# Demo
+https://github.com/user-attachments/assets/f09e25df-d180-4199-875c-5f2610f632f4
+
+
 
 ## Pending / trade-offs / future improvements
 
