@@ -2,7 +2,7 @@ name: Pokdex
 options:
   bundleIdPrefix: bennyDev
   deploymentTarget:
-    iOS: "26.5"
+    iOS: "26.0"
   createIntermediateGroups: true
 
 settings:
