@@ -38,3 +38,9 @@ xcuserdata/
 # Crashlytics / Firebase
 # =========================
 crashlytics-build.properties
+
+# =========================
+# XcodeGen
+# =========================
+# The project is generated from project.yml — run `xcodegen` after cloning
+Pokdex.xcodeproj/
